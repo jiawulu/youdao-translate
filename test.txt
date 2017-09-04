@@ -1,0 +1,3 @@
+// 123213 你好
+* hello 你好
+@Config(title = "构建基线包", message = "构建基线包，建议开启，否则后面的patch包无法进行", order = 0, group = "atlas_patch")
